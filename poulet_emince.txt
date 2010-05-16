@@ -1,0 +1,34 @@
+#ID::CUI-0004 ----------------------------------------------------------------
+
+                              ~ ÉMINCÉ DE POULET ~
+                         Une recette simple et rapide.
+
+
+>> Ingrédients (2 personnes)
+
+- filet de poulet  300 gr.
+- huile d'arachide, sel, poivre, Streumi...
+
+
+>> Marche à suivre
+
+1. Découper les filets de poulet en petits cubes à l'aide d'un grand couteau (de
+   boucher), en enlevant le gras.
+
+2. Faire chauffer l'huile *d'abord*, puis mettre le poulet. Une fois que la
+   viande est saisie - c'est à dire blanche partout - mettre le sel, le poivre
+   et le Streumi.
+
+
+>> Remarques & commentaires
+
+    Attention aux mesures d'hygiène avec le poulet cru. Ne pas faire entrer en
+contact, directement ou *indirectement*. Toujours bien se laver les mains.
+
+
+>> Metadonees
+
+- Date      : 2009-12-31
+- Auteur    : Lucas Maystre <lucas@maystre.ch>
+- Origine   : Tinetta Maystre
+- Mots-clés : simple, rapide, viande
