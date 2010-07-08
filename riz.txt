@@ -1,4 +1,4 @@
-#ID::CUI-0003 ----------------------------------------------------------------
+#ID::CUI-0003 ------------------------------------------------------------------
 
                                     ~ RIZ ~
                       En accompagnement de tout autre plat
@@ -30,9 +30,8 @@
    est bien cuit, éteindre et ajouter le persil haché auparavant.
 
 
->> Metadonees
+>> Metadonées
 
-- Date      : 2009-12-31
 - Auteur    : Lucas Maystre <lucas@maystre.ch>
 - Origine   : Tinetta Maystre
 - Mots-clés : simple, base

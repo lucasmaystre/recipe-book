@@ -1,0 +1,36 @@
+#ID::CUI-0006 ------------------------------------------------------------------
+
+                                  ~ TABOULÉ ~
+             A amener à l'occasions de dîners canadiens ou pic-nics
+
+
+>> Ingrédients (3 personnes)
+
+- tomates                       3 [TODO] Vérifier.
+- concombre                     1/2
+- échalottes (ou oignon rouge)  2
+- basilic                       6 feuilles
+- menthe ciselée très finement  3 feuilles
+- olives                        10
+- concombres au vinaigre        3
+- couscous                      350 gr.
+- sel                           1/2 c.c.
+- persil plat
+- citron, huile d'olive
+
+
+>> Marche à suivre
+
+1. Mettre le couscous dans un plat. Ajouter le même volume de liquide. Par
+   liquide, on entend le (les) citron(s) pressé(s) et de l'eau. Laisser gonfler
+   pendant environ 10 min.
+
+2. Ajouter le reste - légumes, herbes, sel, olives, etc. A la fin, mettre un peu
+   d'huile d'olive, et mélanger le tout.
+
+
+>> Metadonées
+
+- Auteur    : Lucas Maystre <lucas@maystre.ch>
+- Origine   : Tinetta Maystre
+- Mots-clés : couscou, été, froid, tomate, simple

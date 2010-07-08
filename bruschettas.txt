@@ -1,4 +1,4 @@
-#ID::CUI-0002 ----------------------------------------------------------------
+#ID::CUI-0002 ------------------------------------------------------------------
 
             ~ COURTOIS (BRUSCHETTA) TOMATE-MOZZARELLA / COURGETTE ~
                               Simple et savoureux
@@ -22,7 +22,7 @@
    Pendant que les pain toastent, couper la tomate en dés et les faire dégorger
    (c'est à dire les mettre dans une passoire sur l'éveir pour que l'eau parte).
 
-2. Couper le basilic assez fin (en lamelles)
+2. Couper le basilic assez fin (en lamelles).
 
 3. OPTIONNEL (courgettes): couper l'oignon assez fin, et le faire revenir dans
    un peu d'huile d'olive préalablement chauffée dans une petite casserole
@@ -45,12 +45,10 @@
 
 8. Remettre les bruschettas au four. Mettre la plaque assez haut, et régler le
    four sur "en-haut". Temps de cuisson: env. 7-8 min.
-3. Avec un pinceau, mettre la "sauce" sur les pains toastés.
 
 
->> Metadonees
+>> Metadonées
 
-- Date      : 2009-10-09
 - Auteur    : Lucas Maystre <lucas@maystre.ch>
 - Origine   : Tinetta Maystre
 - Mots-clés : simple, italien

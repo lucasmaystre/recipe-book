@@ -1,4 +1,4 @@
-#ID::CUI-0005 ----------------------------------------------------------------
+#ID::CUI-0005 ------------------------------------------------------------------
 
                             ~ CROISSANTS AU JAMBON ~
                   Convient à merveille pour un repas canadien
@@ -31,4 +31,4 @@
 - Date      : 2010-01-03
 - Auteur    : Lucas Maystre <lucas@maystre.ch>
 - Origine   : Tinetta Maystre
-- Mots-cles : jambon, froid, pic-nic, croissant
+- Mots-clés : jambon, froid, pic-nic, croissant

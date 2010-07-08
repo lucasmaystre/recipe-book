@@ -1,4 +1,4 @@
-#ID::CUI-0004 ----------------------------------------------------------------
+#ID::CUI-0004 ------------------------------------------------------------------
 
                               ~ ÉMINCÉ DE POULET ~
                          Une recette simple et rapide.
@@ -26,9 +26,8 @@
 contact, directement ou *indirectement*. Toujours bien se laver les mains.
 
 
->> Metadonees
+>> Metadonées
 
-- Date      : 2009-12-31
 - Auteur    : Lucas Maystre <lucas@maystre.ch>
 - Origine   : Tinetta Maystre
 - Mots-clés : simple, rapide, viande

@@ -1,4 +1,4 @@
-#ID::CUI-0001 ----------------------------------------------------------------
+#ID::CUI-0001 ------------------------------------------------------------------
 
                        ~ COURTOIS (BRUSCHETTA) À L'AIL ~
               En apéritif ou comme base pour d'autres bruschettas
@@ -27,9 +27,8 @@
     Utilisé comme base pour les bruschettes tomate-mozzarella ou courgette.
 
 
->> Metadonees
+>> Metadonées
 
-- Date      : 2009-12-31
 - Auteur    : Lucas Maystre <lucas@maystre.ch>
 - Origine   : Maja Engeler
 - Mots-clés : apéritif, simple, italien

@@ -1,0 +1,31 @@
+#ID::CUI-0011 ------------------------------------------------------------------
+
+                            ~ GRATIN DE CORNETTES ~
+                             Préparable à l'avance
+
+
+>> Ingrédients
+
+- crème
+- crème acidulée
+- jambon
+- parmesan
+
+
+>> Marche à suivre
+
+1. Faire cuire les cornettes, et récupérer un peu d'eau de cuisson. En
+   parallèle, préparer la sauce: couper le jambon en carrés, mélanger avec la
+   crème, la crème acidulée et un peu de parmesan. A la fin, ajouter un peu
+   d'eau de cuisson.
+
+2. Mettre les cornettes dans un plat à gratin. Mettre la sauce par dessus,
+   éventuellement mélanger le tout. Saupoudrer du parmesan sur le dessus. Mettre
+   30 à 35 min. dans le four à 210° C.
+
+
+>> Metadonées
+
+- Auteur    : Lucas Maystre <lucas@maystre.ch>
+- Origine   : Tinetta Maystre
+- Mots-clés : pâtes, simple, gratin, jambon

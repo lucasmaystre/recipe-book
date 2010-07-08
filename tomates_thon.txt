@@ -1,4 +1,4 @@
-#ID::CUI-0005 ----------------------------------------------------------------
+#ID::CUI-0005 ------------------------------------------------------------------
 
                           ~ TOMATES FARCIES AU THON ~
                           Un repas froid idéal en été
@@ -6,35 +6,54 @@
 
 >> Ingrédients (4 personnes)
 
-- tomates  3
-- pain     2 tranches
-- thon     1 boite
+- tomates              10
+- thon                 2 grandes boîtes
+- ciboulette           1 petit bouquet
+- demi-crème acidulée  2 c.s. bien remplies
+- mayonnaise           2 c.s. un peut moins remplies
+- jus de citron        2 c.s.
+- oignons              1
+- (basilic)
+- (livèche)
+- sel
 
 
 >> Marche à suivre
 
-1. laisser mijoter jusqu'à ce que blabla bla blab sakljdh sjkh kjhf  dkjhsd
-   jshjshdkjh skjhsd sakjhsd
+1. Couper la ciboulette en petits tubes avec des ciseaux d'un côté, et hacher
+   les herbes et l'oignon ensemble.
 
-2. lks salkj dlkjasd slkjd aslkjsd asdlkjsd sdjslks slk kls sdkljs asdkljsd
-   sdlk asdkljasd
+2. Ouvrir les boîtes de thon, faire égoutter dans le bocal des huiles usagées.
+   Prendre un plat, mettre le thon, et l'émietter (beaucoup) avec une
+   fourchette.
+
+3. Ajouter la ciboulette, les autres herbes et l'oignon au plat. Ajouter la
+   crème acidulée, la mayonnaise, le citron, le sel (un peu), puis mélanger.
+   Goûter et ajouter, si besoin: citron (si c'est un peu écoeurant), sel, crème
+   acidulée (si ce n'est pas assez crémeux).
+
+4. Evider les tomates: couper le "trognon" (creuser un cône à base circulatire
+   avec un couteau). Couper le "couvercle", tailler dans la tomate, en suivant
+   son contour. Enlever l'intérieur à la petite cuillère, et le récupérer (utile
+   pour faire une sauve tomate, etc).
+
+5. Remettre un peu de l'intérieur récupéré de la tomate dans la farce au thon
+   (avec un peu "d'eau de tomate", liquide à l'intérieur).
+
+6. Mettre de l'aromat dans les tomates. Mettre la farce dedans, et c'est prêt !
 
 
 >> Remarques & commentaires
 
-    Il blablatait une fois a l'oree des bois cetait un beau jour de printemps
-mais ma fois cest la vie on va pas en faire tout un plat ben justement de plat
-cest de ca qu'il est question vu que c'est une recette de cuisine.
+    La farce au thon (étapes 1-3) peut aussi se manger en elle même (salade de
+thon), ou servir de farce de sandwich.
 
-    Mais la je vais ajouter quelque chose Il blablatait une fois a l'oree des
-bois cetait un beau jour de printemps mais ma fois cest la vie on va pas en
-faire tout un plat ben justement de plat cest de ca qu'il est question vu que
-c'est une recette de cuisine.
+    Comme indiqué au point 4, la récupération de l'intérieur des tomates peut
+servir de base à d'autres recettes; par exemple pour une sauce tomate.
 
 
->> Metadonees
+>> Metadonées
 
-- Date      : 2009-10-09
 - Auteur    : Lucas Maystre <lucas@maystre.ch>
 - Origine   : Tinetta Maystre
-- Mots-cles : tomate, thon, froid
+- Mots-clés : tomate, thon, froid

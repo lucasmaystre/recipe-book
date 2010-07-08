@@ -1,0 +1,31 @@
+#ID::CUI-0010 ------------------------------------------------------------------
+
+                           ~ SAUCE CARBONARA LIGHT ~
+                     Une sauce carbonara sans lard ni oeuf
+
+
+>> Ingrédients (2 personnes - 250 gr. de pâtes)
+
+- (demi-)crème       4 grosses c.s.
+- bouillon de poule  1 cube
+- ail                2 gousses
+- jambon             2 tranches
+- herbes de provence (sèches, ou provence mix)
+
+
+>> Marche à suivre
+
+1. Couper le jambon en petits carrés. Presser l'ail. Faire chauffer le tout très
+   doucement, puis verser sur les pâtes, mélanger et servir.
+
+
+>> Remarques & commentaires
+
+    Presque un peu trop salé avec 1 cube entier de bouillon. Essayer avec un peu
+moins ?
+
+>> Metadonées
+
+- Auteur    : Lucas Maystre <lucas@maystre.ch>
+- Origine   : Tinetta Maystre
+- Mots-clés : pâtes, sauce, simple, jambon
