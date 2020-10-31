@@ -14,7 +14,7 @@ For 4 people.
 - Bolognese sauce [@C200607D]
 - 25 gr butter
 - 25 gr flour
-- 4 dl milk + water
+- 3 dl milk + water
 - Parmigiano cheese, optional
 
 
@@ -35,3 +35,8 @@ For 4 people.
     - Bolognese + Béchamel
    Optionally, add some Parmigiano cheese on top.
 3. Bake at 200C for ~45 min.
+
+
+## Notes
+
+- 3dl of Béchamel sauce was a tad too much.
