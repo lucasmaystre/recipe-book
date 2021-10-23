@@ -36,7 +36,7 @@ For 3-4 pizzas.
 
 - Dough can be kept in the fridge for a while. watch out for the fact that it
   might rise in the fridge.
-- It really is helpful if the water / milk is warm. Otherwise it will have
-  trouble rising.
+- It really is helpful if the water / milk is warm (but not hot). Otherwise it
+  will have trouble rising.
 - One trick that can be helpful in the winter is to put the dough to rise in
   the oven, pre-heated at ~40-50 C.

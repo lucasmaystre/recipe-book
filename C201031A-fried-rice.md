@@ -14,7 +14,6 @@ For 4 portions.
 - 2 eggs, whisked
 - 2 medium carrots, diced
 - 1 small onion, diced
-- green peas
 - 1/2 cup frozen peas
 - 3 cloves garlic, minced
 - ~250 gr cooked basmati rice, chilled

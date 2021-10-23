@@ -13,7 +13,7 @@
 For 4 people.
 
 - 250gr Arborio rice
-- 4-6x volume of rice in vegetable / chicken stock
+- ~4x volume of rice in vegetable / chicken stock
 - 150-200gr varied mushrooms (shiitake, oyster, ...)
 - shallots, scallions, onions
 - garlic
