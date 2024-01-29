@@ -40,3 +40,9 @@ For 4 portions.
    until the sauce has thickened.
 6. Sprinkle with toppings (green onions, sesame seeds) if desired, and serve
    immediately.
+
+
+## Notes
+
+- The oyster sauce really brings a lot. I tried once without (2022-03-28) and
+  it was not nearly as good.

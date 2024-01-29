@@ -14,7 +14,7 @@ For a decent-sized breakfast for 2 people.
 
 - 145 g plain flour
 - 10 g sugar
-- 2 tsp baking powder
+- 2 tsp baking powder (NOT baking soda!)
 - a pinch of salt
 - 220 ml milk
 - 30 g butter

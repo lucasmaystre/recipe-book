@@ -22,6 +22,7 @@ For 4 people.
 - butter
 - parmigiano
 - salt / pepper
+- thyme
 
 
 ## Instructions
@@ -34,7 +35,7 @@ Important: be patient, it takes time.
 3.  Add shallots (or scallions, onions, ...) and then garlic. Cook until
     translucent.
 4.  Add butter and mushrooms, cook until soft and tender. Takes a while.
-5.  Add garlic, thyme, pepper.
+5.  Add thyme, pepper.
 6.  Add rice, turn until fully coated in mushrooms. Should be "toasted". Takes
     1-2 min.
 7.  Add the wine. Wait until it is cooked off.
